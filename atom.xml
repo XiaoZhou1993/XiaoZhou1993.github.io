@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://github.com/XiaoZhou1993</id>
     <title>但求无悔</title>
-    <updated>2020-08-23T02:55:26.743Z</updated>
+    <updated>2020-08-23T02:59:17.861Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://github.com/XiaoZhou1993"/>
     <link rel="self" href="https://github.com/XiaoZhou1993/atom.xml"/>
@@ -12,8 +12,8 @@
     <rights>All rights reserved 2020, 但求无悔</rights>
     <entry>
         <title type="html"><![CDATA[锁----死锁]]></title>
-        <id>https://github.com/XiaoZhou1993/post/suo-si-suo/</id>
-        <link href="https://github.com/XiaoZhou1993/post/suo-si-suo/">
+        <id>https://github.com/XiaoZhou1993/suo-si-suo/</id>
+        <link href="https://github.com/XiaoZhou1993/suo-si-suo/">
         </link>
         <updated>2020-08-23T01:28:11.000Z</updated>
         <content type="html"><![CDATA[<p>###死锁的四要素：<br>
@@ -25,8 +25,8 @@
     </entry>
     <entry>
         <title type="html"><![CDATA[Hello Gridea]]></title>
-        <id>https://github.com/XiaoZhou1993/post/hello-gridea/</id>
-        <link href="https://github.com/XiaoZhou1993/post/hello-gridea/">
+        <id>https://github.com/XiaoZhou1993/hello-gridea/</id>
+        <link href="https://github.com/XiaoZhou1993/hello-gridea/">
         </link>
         <updated>2018-12-11T16:00:00.000Z</updated>
         <summary type="html"><![CDATA[<p>👏  欢迎使用 <strong>Gridea</strong> ！<br>
